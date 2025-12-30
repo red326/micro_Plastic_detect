@@ -24,7 +24,7 @@ MicroDetect addresses the global microplastics crisis by providing an advanced, 
 
 Try the interactive demo to analyze water sample images and get detailed microplastics detection results:
 
-[🔗 Try Live Demo](https://your-demo-link.com) *(Update with your actual deployment URL)*
+[🔗 Try Live Demo](https://microdetect-806685.netlify.app/) *(Update with your actual deployment URL)*
 
 ## 📁 Project Structure
 
@@ -100,8 +100,7 @@ The demo provides comprehensive analysis including:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/MicroDetect.git
-   cd MicroDetect
+   git clone https://github.com/red326/micro_Plastic_detect
    ```
 
 2. **Open the application**
@@ -180,35 +179,9 @@ We welcome contributions! Please follow these steps:
 
 **Get in Touch**:
 - 📧 Email: rs1295327@gmail.com
-- 🐛 Issues: [GitHub Issues](ttps://github.com/red326/micro_Plastic_detect)
-- 💬 Discussions: [GitHub Discussions](ttps://github.com/red326/micro_Plastic_detect/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/red326/micro_Plastic_detect)
+- 💬 Discussions: [GitHub Discussions](https://github.com/red326/micro_Plastic_detect/discussions)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2024 Rahul Singh
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-```
-
-## 🙏 Acknowledgments
-
-- Font Awesome for the amazing icon library
-- Google Fonts for the Inter typeface
-- The environmental science community for microplastics research
-- All contributors who help improve this project
 
 ## 🔮 Future Roadmap
 
