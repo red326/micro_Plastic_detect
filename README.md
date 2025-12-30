@@ -179,9 +179,9 @@ We welcome contributions! Please follow these steps:
 **Project Creator**: Rahul Singh
 
 **Get in Touch**:
-- 📧 Email: youremail@gmail.com
-- 🐛 Issues: [GitHub Issues](https://github.com/yourusername/MicroDetect/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/MicroDetect/discussions)
+- 📧 Email: rs1295327@gmail.com
+- 🐛 Issues: [GitHub Issues](ttps://github.com/red326/micro_Plastic_detect)
+- 💬 Discussions: [GitHub Discussions](ttps://github.com/red326/micro_Plastic_detect/discussions)
 
 ## 📄 License
 
